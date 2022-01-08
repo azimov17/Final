@@ -4,8 +4,17 @@
 
 
 
+##### Requirements done:
+##### Logo of our university +5
 
 	• video on youtube inside github (20 pts max)
-https://youtu.be/JocZkCTgEao
+<object width="425" height="350">
+  <param name="movie" value="https://youtu.be/JocZkCTgEao" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://youtu.be/JocZkCTgEao"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
+
 
 
