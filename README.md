@@ -6,7 +6,6 @@ Our project is simple and easy to use . It has divided int two : Not completed a
 ![image](https://user-images.githubusercontent.com/73305001/148652993-e9b7e99a-78e2-4266-8288-d97a211d2318.png)
 
 
-file:///C:/Users/user/Downloads/Telegram%20Desktop/to%20do%20llist/to%20do%20llist/index.html
 
 
 #### Requirements done:
