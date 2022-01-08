@@ -6,14 +6,15 @@ Our project is simple and easy to use . It has divided int two : Not completed a
 
 
 
-##### Requirements done:
-##### Logo of our university +5
+#### Requirements done:
+#### Logo of our university +5
 
 	• video on youtube inside github (20 pts max)
 https://youtu.be/JocZkCTgEao
 
 https://user-images.githubusercontent.com/73305001/148652292-63492bfb-38f9-425a-9298-545e1f45e294.mp4
-
+	• video feedback (10 pts each) if you submit link to google drive, please, grant access to anyone, who has the link.
+	
 
 
 
