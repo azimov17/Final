@@ -53,6 +53,7 @@ h3{
 }
 ol{
     list-style: none;
+    counter-reset: my-counter;
 }
 ol li{
     width: 100%;
@@ -60,6 +61,7 @@ ol li{
     margin: 5px 0;
     background: #e96969bb;
     font-size: 22px;
+    counter-increment: my-counter;
 }
 ol.Completed li{
     background: #00ff62;
