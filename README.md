@@ -3,8 +3,8 @@
 ### Description :
 ToDoList is a personal time and task management web application. Not only does it feature simple to-do-list functionality, it also provides task scheduling, planning, and time tracking capabilities. Because of the organizational power of its tag system, ToDoList is flexible enough to support users who need to do anything from tracking their grocery list to creating software feature release plans.
 Our project is simple and easy to use . It has divided int two : Not completed and Completed. You can add tasks and organize it .
-![image](https://user-images.githubusercontent.com/73305001/148652993-e9b7e99a-78e2-4266-8288-d97a211d2318.png)
 
+![photo_2022-01-11_02-21-12](https://user-images.githubusercontent.com/73305001/148833252-7a018852-2501-4baa-b249-6c38e9cfe44c.jpg)
 
 
 
